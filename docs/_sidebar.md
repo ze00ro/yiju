@@ -11,13 +11,11 @@
   
 - EB端
 
-  - [注册登录](eb/account.md)
-  
   - [医居和房型](eb/roomtype.md)
   
   
   
 - MIS 端
 
-  - [用户相关](mis/member.md)
+  - [用户相关](mis/user.md)
 
