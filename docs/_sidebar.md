@@ -18,4 +18,6 @@
 - MIS 端
 
   - [用户相关](mis/user.md)
-
+  - [医居相关](mis/medhouse.md)
+  - [直销平台相关](mis/platform.md)
+  - [内容相关](mis/content.md)
