@@ -7,13 +7,13 @@
   - [下单](m/order.md)
   - [我的](m/my.md)
   
-  
-  
 - EB端
 
-  - [医居和房型](eb/roomtype.md)
+  - [设置](eb/setting.md)
   
-  
+  - [房态和订单](eb/order.md)
+  - [直销平台](eb/platform.md)
+  - [统计和结算单](eb/analysis.md)
   
 - MIS 端
 
