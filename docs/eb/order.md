@@ -1,6 +1,6 @@
 ## 房态页
 
-![](/Users/ze00ro/Projects/yiju/docs/eb/assets/statePage.png)
+![](assets/statePage.png)
 
 1. 空闲的间夜, 点击后会出现不同的表单框
 2. 切换不同的医居
@@ -14,6 +14,6 @@
 
 ## 订单列表
 
-![](/Users/ze00ro/Projects/yiju/docs/eb/assets/orderPage.png)
+![](assets/orderPage.png)
 
 订单页主要是按下单顺序查看, 和筛选订单的时候查看, 点击`查看订单`可以看到和房态页一样的详细信息, 而且这里可以看到已经删除的订单.
